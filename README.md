@@ -6,7 +6,7 @@ Check latest release [here](https://github.com/Mengkernel/gcc/releases/latest)[!
 
 # Features
 ```
-  ==> GCC-14.0.1-20240413
+  ==> GCC-14.0.1-20240420
   ==> Binutils-2.42.50
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
