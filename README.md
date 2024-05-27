@@ -2,7 +2,7 @@
 [![Bleeding Edge GCC Build](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml/badge.svg)](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml)
 
 # Download
-Check latest release [here](https://github.com/Mengkernel/gcc/releases/latest)[![Bleeding Edge GCC Build](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml/badge.svg)](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml)
+Check latest release [here](https://github.com/Mengkernel/gcc/releases/latest)
 
 # Features
 ```
