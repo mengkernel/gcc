@@ -1,8 +1,8 @@
 # GitHub Action Build Status
-[![Bleeding Edge GCC Build](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml/badge.svg)](https://github.com/Diaz1401/gcc-build/actions/workflows/unstable-build.yml)
+[![Weekly GCC Build](https://github.com/mengkernel/gcc-build/actions/workflows/weekly-build.yml/badge.svg)](https://github.com/mengkernel/gcc-build/actions/workflows/weekly-build.yml)
 
 # Download
-Check latest release [here](https://github.com/Mengkernel/gcc/releases/latest)
+Check latest release [here](https://github.com/mengkernel/gcc/releases/latest)
 
 # Features
 ```
@@ -10,8 +10,9 @@ Check latest release [here](https://github.com/Mengkernel/gcc/releases/latest)
   ==> Binutils-BINUTILSVERSION
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
-  ==> Compressed tar archive with zstd v1.5.5
+  ==> Compiled with LTO + PGO
+  ==> Compressed tar archive with zstd v1.5.6
 ```
 
 # Build script
-Visit https://github.com/Diaz1401/gcc-build
+Visit https://github.com/mengkernel/gcc-build
