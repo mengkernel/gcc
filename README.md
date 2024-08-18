@@ -6,7 +6,7 @@ Check latest release [here](https://github.com/mengkernel/gcc/releases/latest)
 
 # Features
 ```
-  ==> GCC-15.0.0-20240803
+  ==> GCC-15.0.0-20240817
   ==> Binutils-2.43.50
   ==> Target: 'aarch64-linux-gnu'
   ==> Stripped binaries
